@@ -8,7 +8,7 @@ class Solution {
         int index = 1;
         int count = 0;
         while(current<moves.length){
-            for(int i = 0; i <5;i++){
+            for(int i = 0; i <board.length;i++){
                 if(board[i][moves[current]-1]!=0) {
                     list.add(board[i][moves[current] - 1]);
                     board[i][moves[current] - 1] = 0;
