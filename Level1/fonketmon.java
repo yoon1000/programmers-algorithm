@@ -1,21 +1,15 @@
-import java.util.ArrayList;
+import java.util.HashMap;
 class Solution {
     public int solution(int[] nums) {
         int answer = 0;
-        ArrayList<Integer> list = new ArrayList<Integer>();
-        int count = 0;
-        for(int i=0;i<nums.length;i++){
-            list.add(nums[i]);
+        HashMap<Integer, Integer> hashMap = new HashMap<>();
+        for(int num : nums){
+            hashMap.put(num, hashMap.getOrDefault(num, 0)+1);
         }
-        list.sort(null);
-        for(int i=0;i<nums.length-1;i++){
-            if(list.get(i)!=list.get(i+1))
-                count++;
-        }
-        if(count<nums.length/2)
-            answer = count+1;
-        else
+        if(hashMap.size()>nums.length/2)
             answer = nums.length/2;
+        else if(hashMap.size()<=nums.length/2)
+            answer = hashMap.size();
         return answer;
     }
 }
