@@ -32,7 +32,7 @@ class Solution {
                     Rstack.push(numbers[i]);
                 }
                 else{
-                    if(hand == "left"){
+                    if(hand.equals("left")){
                         answer += "L";
                         Lstack.pop();
                         Lstack.push(numbers[i]);
@@ -47,7 +47,7 @@ class Solution {
         }
         return answer;
     }
-    
+
     public static int calculate(int peek, int input){
         if(input == 0 )
             input = 11;
