@@ -14,8 +14,12 @@
 |키패드 누르기|keypad.java|2021-7-26|O|
 |체육복|sportsWear.java|2021-7-26|O|
 |로또의 최고 순위와 최저 순위|lottos.java|2021-7-31||
-|신규 아이디 추천|newId.java|2021-8-1||
+|신규 아이디 추천|newId.java|2021-8-01||
 
+## Weekly Challenge
+|이름|파일명|날짜|
+|:---|:---|:---:|
+|부족한 금액 계산하기|insufficient.java|2021-8-02|
 
 그 외 
 * 짝수와 홀수
