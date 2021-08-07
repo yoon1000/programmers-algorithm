@@ -17,6 +17,7 @@
 |신규 아이디 추천|newId.java|2021-8-01||
 |약수의 개수와 덧셈|divisorNumber.java|2021-8-03||
 |실패율|failureLate.java|2021-8-07||
+|두 개 뽑아서 더하기|sumTwoNum.java|2021-8-07||
 
 ## Weekly Challenge
 |이름|파일명|날짜|
