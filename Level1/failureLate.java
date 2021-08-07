@@ -20,8 +20,7 @@ class Solution {
                 people = people - hashMap.get(i);
             }
             else{
-                Result.put(i, 0/people);
-                //System.out.println(Result.get(i));
+                Result.put(i, (float) 0);
             }
         }
         //리스트를 활용해 value값을 내림차순으로 정렬해준다.
