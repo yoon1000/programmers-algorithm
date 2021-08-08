@@ -4,7 +4,7 @@
 ## Level 1 푼 문제 목록
 |이름|파일명|날짜|ver2|
 |:---|:---|:---:|:---:|
-|K번째수|Knumber.java|2021-7-13||
+|K번째수|[Knumber.java]|2021-7-13||
 |내적|dot-product.java|2021-7-13||
 |크레인 인형뽑기 게임|claw-crane-game.java|2021-7-19|O|
 |완주하지 못한 선수|marathon.java|2021-7-21|O|
@@ -37,3 +37,7 @@
 * SUM,MAX,MIN (4문제)
 * GROUP BY (4문제)
 따로 정리 예정
+
+
+
+[Knumber.java]:https://github.com/yoon1000/programmers-algorithm/blob/main/Level1/Knumber.java
