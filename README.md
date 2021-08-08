@@ -19,6 +19,7 @@
 |실패율|failureLate.java|2021-8-07||
 |두 개 뽑아서 더하기|sumTwoNum.java|2021-8-07||
 |3진법 뒤집기|ternaryScale.java|2021-8-07||
+|예산|budget.java|2021-8-08||
 
 ## Weekly Challenge
 |이름|파일명|날짜|
