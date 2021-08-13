@@ -24,7 +24,7 @@
 ## Weekly Challenge
 |이름|파일명|날짜|
 |:---|:---|:---:|
-|부족한 금액 계산하기|insufficient.java|2021-8-02|
+|부족한 금액 계산하기|[insufficient.java]|2021-8-02|
 
 그 외 
 * 짝수와 홀수
@@ -56,4 +56,6 @@
 [sumTwoNum.java]:https://github.com/yoon1000/programmers-algorithm/blob/main/Level1/HashSet/sumTwoNum.java
 [ternaryScale.java]:https://github.com/yoon1000/programmers-algorithm/blob/main/Level1/ternaryScale.java
 [budget.java]:https://github.com/yoon1000/programmers-algorithm/blob/main/Level1/budget.java
+
+[insufficient.java]:https://github.com/yoon1000/programmers-algorithm/blob/main/weekly-challenge/insufficient.java
 
