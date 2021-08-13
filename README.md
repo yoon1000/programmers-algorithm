@@ -5,21 +5,21 @@
 |이름|파일명|날짜|ver2|
 |:---|:---|:---:|:---:|
 |K번째수|[Knumber.java]|2021-7-13||
-|내적|dot-product.java|2021-7-13||
-|크레인 인형뽑기 게임|claw-crane-game.java|2021-7-19|O|
-|완주하지 못한 선수|marathon.java|2021-7-21|O|
-|폰켓몬|fonketmon.java|2021-7-21||
-|숫자 문자열과 영단어|numberAndString.java|2021-7-23||
-|모의고사|trialExam.java|2021-7-24||
-|키패드 누르기|keypad.java|2021-7-26|O|
-|체육복|sportsWear.java|2021-7-26|O|
-|로또의 최고 순위와 최저 순위|lottos.java|2021-7-31||
-|신규 아이디 추천|newId.java|2021-8-01||
-|약수의 개수와 덧셈|divisorNumber.java|2021-8-03||
-|실패율|failureLate.java|2021-8-07||
-|두 개 뽑아서 더하기|sumTwoNum.java|2021-8-07||
-|3진법 뒤집기|ternaryScale.java|2021-8-07||
-|예산|budget.java|2021-8-08||
+|내적|[dot-product.java]|2021-7-13||
+|크레인 인형뽑기 게임|[claw-crane-game.java]|2021-7-19|O|
+|완주하지 못한 선수|[marathon.java]|2021-7-21|O|
+|폰켓몬|[fonketmon.java]|2021-7-21||
+|숫자 문자열과 영단어|[numberAndString.java]|2021-7-23||
+|모의고사|[trialExam.java]|2021-7-24||
+|키패드 누르기|[keypad.java]|2021-7-26|O|
+|체육복|[sportsWear.java]|2021-7-26|O|
+|로또의 최고 순위와 최저 순위|[lottos.java]|2021-7-31||
+|신규 아이디 추천|[newId.java]|2021-8-01||
+|약수의 개수와 덧셈|[divisorNumber.java]|2021-8-03||
+|실패율|[failureLate.java]|2021-8-07||
+|두 개 뽑아서 더하기|[sumTwoNum.java]|2021-8-07||
+|3진법 뒤집기|[ternaryScale.java]|2021-8-07||
+|예산|[budget.java]|2021-8-08||
 
 ## Weekly Challenge
 |이름|파일명|날짜|
@@ -41,3 +41,19 @@
 
 
 [Knumber.java]:https://github.com/yoon1000/programmers-algorithm/blob/main/Level1/Knumber.java
+[dot-product.java]:https://github.com/yoon1000/programmers-algorithm/blob/main/Level1/dot-product.java
+[claw-crane-game.java]:https://github.com/yoon1000/programmers-algorithm/blob/main/Level1/claw-crane-game.java
+[marathon.java]:https://github.com/yoon1000/programmers-algorithm/blob/main/hash/marathon.java
+[fonketmon.java]:https://github.com/yoon1000/programmers-algorithm/blob/main/Level1/HashMap/fonketmon.java
+[numberAndString.java]:https://github.com/yoon1000/programmers-algorithm/blob/main/Level1/numberAndString.java
+[trialExam.java]:https://github.com/yoon1000/programmers-algorithm/blob/main/Level1/HashMap/trialExam.java
+[keypad.java]:https://github.com/yoon1000/programmers-algorithm/blob/main/Level1/Stack/keypad.java
+[sportsWear.java]:https://github.com/yoon1000/programmers-algorithm/blob/main/Level1/HashMap/sportsWear.java
+[lottos.java]:https://github.com/yoon1000/programmers-algorithm/blob/main/Level1/lottos.java
+[newId.java]:https://github.com/yoon1000/programmers-algorithm/blob/main/Level1/RegularExpression/newId.java
+[divisorNumber.java]:https://github.com/yoon1000/programmers-algorithm/blob/main/Level1/divisorNumber.java
+[failureLate.java]:https://github.com/yoon1000/programmers-algorithm/blob/main/Level1/HashMap/failureLate.java
+[sumTwoNum.java]:https://github.com/yoon1000/programmers-algorithm/blob/main/Level1/HashSet/sumTwoNum.java
+[ternaryScale.java]:https://github.com/yoon1000/programmers-algorithm/blob/main/Level1/ternaryScale.java
+[budget.java]:https://github.com/yoon1000/programmers-algorithm/blob/main/Level1/budget.java
+
