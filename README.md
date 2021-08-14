@@ -25,6 +25,7 @@
 |이름|파일명|날짜|
 |:---|:---|:---:|
 |부족한 금액 계산하기|[insufficient.java]|2021-8-02|
+|상호 평가|[grading.java]|2021-8-14|
 
 그 외 
 * 짝수와 홀수
@@ -58,4 +59,4 @@
 [budget.java]:https://github.com/yoon1000/programmers-algorithm/blob/main/Level1/budget.java
 
 [insufficient.java]:https://github.com/yoon1000/programmers-algorithm/blob/main/weekly-challenge/insufficient.java
-
+[grading.java]:https://github.com/yoon1000/programmers-algorithm/blob/main/weekly-challenge/grading.java
