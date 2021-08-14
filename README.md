@@ -27,7 +27,7 @@
 |부족한 금액 계산하기|[insufficient.java]|2021-8-02|
 |상호 평가|[grading.java]|2021-8-14|
 
-##Java Study
+## Java Study
 |이름|파일명|날짜|
 |:---|:---|:---:|
 |가운데 글자 가져오기|[middleWord.java]|2021-8-14|
