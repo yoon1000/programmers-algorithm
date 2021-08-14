@@ -27,6 +27,11 @@
 |부족한 금액 계산하기|[insufficient.java]|2021-8-02|
 |상호 평가|[grading.java]|2021-8-14|
 
+##Java Study
+|이름|파일명|날짜|
+|:---|:---|:---:|
+|가운데 글자 가져오기|[middleWord.java]|2021-8-14|
+
 그 외 
 * 짝수와 홀수
 * 평균 구하기
@@ -60,3 +65,6 @@
 
 [insufficient.java]:https://github.com/yoon1000/programmers-algorithm/blob/main/weekly-challenge/insufficient.java
 [grading.java]:https://github.com/yoon1000/programmers-algorithm/blob/main/weekly-challenge/grading.java
+
+[middleWord.java]:https://github.com/yoon1000/programmers-algorithm/tree/main/Java-study
+
