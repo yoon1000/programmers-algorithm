@@ -59,7 +59,7 @@
 [sumTwoNum.java]:https://github.com/yoon1000/programmers-algorithm/blob/main/Level1/HashSet/sumTwoNum.java
 [ternaryScale.java]:https://github.com/yoon1000/programmers-algorithm/blob/main/Level1/ternaryScale.java
 [budget.java]:https://github.com/yoon1000/programmers-algorithm/blob/main/Level1/budget.java
-[middleWord.java]:https://github.com/yoon1000/programmers-algorithm/tree/main/Java-study
+[middleWord.java]:https://github.com/yoon1000/programmers-algorithm/blob/main/Level1/middleWord.java
 [findDate.java]:https://github.com/yoon1000/programmers-algorithm/blob/main/Level1/findDate.java
 
 
