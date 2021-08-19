@@ -20,17 +20,14 @@
 |두 개 뽑아서 더하기|[sumTwoNum.java]|2021-8-07||
 |3진법 뒤집기|[ternaryScale.java]|2021-8-07||
 |예산|[budget.java]|2021-8-08||
+|가운데 글자 가져오기|[middleWord.java]|2021-8-14||
+|2016년|[findDate.java]|2021-8-19||
 
 ## Weekly Challenge
 |이름|파일명|날짜|
 |:---|:---|:---:|
 |부족한 금액 계산하기|[insufficient.java]|2021-8-02|
 |상호 평가|[grading.java]|2021-8-14|
-
-## Java Study
-|이름|파일명|날짜|
-|:---|:---|:---:|
-|가운데 글자 가져오기|[middleWord.java]|2021-8-14|
 
 그 외 
 * 짝수와 홀수
@@ -62,9 +59,12 @@
 [sumTwoNum.java]:https://github.com/yoon1000/programmers-algorithm/blob/main/Level1/HashSet/sumTwoNum.java
 [ternaryScale.java]:https://github.com/yoon1000/programmers-algorithm/blob/main/Level1/ternaryScale.java
 [budget.java]:https://github.com/yoon1000/programmers-algorithm/blob/main/Level1/budget.java
+[middleWord.java]:https://github.com/yoon1000/programmers-algorithm/tree/main/Java-study
+[findDate.java]:https://github.com/yoon1000/programmers-algorithm/blob/main/Level1/findDate.java
+
+
 
 [insufficient.java]:https://github.com/yoon1000/programmers-algorithm/blob/main/weekly-challenge/insufficient.java
 [grading.java]:https://github.com/yoon1000/programmers-algorithm/blob/main/weekly-challenge/grading.java
 
-[middleWord.java]:https://github.com/yoon1000/programmers-algorithm/tree/main/Java-study
 
