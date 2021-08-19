@@ -22,7 +22,7 @@
 |예산|[budget.java]|2021-8-08||
 |가운데 글자 가져오기|[middleWord.java]|2021-8-14||
 |2016년|[findDate.java]|2021-8-19||
-|(1차) 비밀지도|[secret.java]|2021-8-20||
+|(1차) 비밀지도|[secretMap.java]|2021-8-20||
 
 ## Weekly Challenge
 |이름|파일명|날짜|
@@ -62,7 +62,7 @@
 [budget.java]:https://github.com/yoon1000/programmers-algorithm/blob/main/Level1/budget.java
 [middleWord.java]:https://github.com/yoon1000/programmers-algorithm/blob/main/Level1/middleWord.java
 [findDate.java]:https://github.com/yoon1000/programmers-algorithm/blob/main/Level1/findDate.java
-[secret.java]:https://github.com/yoon1000/programmers-algorithm/blob/main/Level1/secretMap.java
+[secretMap.java]:https://github.com/yoon1000/programmers-algorithm/blob/main/Level1/secretMap.java
 
 
 [insufficient.java]:https://github.com/yoon1000/programmers-algorithm/blob/main/weekly-challenge/insufficient.java
