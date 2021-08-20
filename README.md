@@ -1,7 +1,7 @@
 # programmers-algorithm
 
-## [알고리즘 피드백 정리]
-
+## [Notion]
+노션으로 알고리즘 피드백 정리!
 
 
 ## Level 1 푼 문제 목록
@@ -70,5 +70,5 @@
 
 [insufficient.java]:https://github.com/yoon1000/programmers-algorithm/blob/main/weekly-challenge/insufficient.java
 [grading.java]:https://github.com/yoon1000/programmers-algorithm/blob/main/weekly-challenge/grading.java
-[알고리즘 피드백 정리]:https://www.notion.so/fa52506a0d39477c850ebb286fad9fac
+[Notion]:https://www.notion.so/fa52506a0d39477c850ebb286fad9fac
 
