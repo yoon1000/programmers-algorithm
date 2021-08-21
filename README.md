@@ -40,7 +40,7 @@
 * 음양 더하기 (2021-7-30)
 
 ## SQL 고득점 Kit
-* SELECT (7문제)
+* [SELECT (7문제)]
 * SUM,MAX,MIN (4문제)
 * GROUP BY (4문제)
 따로 정리 예정
@@ -71,4 +71,8 @@
 [insufficient.java]:https://github.com/yoon1000/programmers-algorithm/blob/main/weekly-challenge/insufficient.java
 [grading.java]:https://github.com/yoon1000/programmers-algorithm/blob/main/weekly-challenge/grading.java
 [Notion]:https://www.notion.so/fa52506a0d39477c850ebb286fad9fac
+
+
+
+[SELECT (7문제)]:https://github.com/yoon1000/programmers-algorithm/tree/main/SQL/SELECT
 
