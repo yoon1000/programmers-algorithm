@@ -3,6 +3,14 @@
 ## [Notion]
 노션으로 알고리즘 피드백 정리!
 
+## Level 2 푼 문제 목록
+|이름|파일명|날짜|
+|:---|:---|:---:|
+|전화번호 목록|[phoneNumList.java]|2021-8-23|
+
+
+[phoneNumList.java]:https://github.com/yoon1000/programmers-algorithm/blob/main/hash/phoneNumList.java
+
 
 ## Level 1 푼 문제 목록
 |이름|파일명|날짜|ver2|
