@@ -34,6 +34,7 @@
 |가운데 글자 가져오기|[middleWord.java]|2021-8-14||
 |2016년|[findDate.java]|2021-8-19||
 |(1차) 비밀지도|[secretMap.java]|2021-8-20||
+|(1차) 다트 게임|[dartGame.java]|2021-8-27||
 
 ## Weekly Challenge
 |이름|파일명|날짜|
@@ -74,6 +75,7 @@
 [middleWord.java]:https://github.com/yoon1000/programmers-algorithm/blob/main/Level1/middleWord.java
 [findDate.java]:https://github.com/yoon1000/programmers-algorithm/blob/main/Level1/findDate.java
 [secretMap.java]:https://github.com/yoon1000/programmers-algorithm/blob/main/Level1/secretMap.java
+[dartGame.java]:https://github.com/yoon1000/programmers-algorithm/blob/main/Level1/dartGame.java
 
 
 [insufficient.java]:https://github.com/yoon1000/programmers-algorithm/blob/main/weekly-challenge/insufficient.java
