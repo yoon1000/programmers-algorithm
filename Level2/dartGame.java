@@ -1,56 +1,66 @@
 // level 2 - [1차] 다트 게임
+import java.util.*;
 
 class Solution {
-    public static int solution(String dartResult) {
+    public int solution(String dartResult) {
         int answer = 0;
         int score = 0;
-        int front = 0;
+        int index = 0;
         ArrayList<Integer> list = new ArrayList<>();
         list.add(0);
-        dartResult = dartResult.replace("#", "# ");
-        dartResult = dartResult.replace("*", "* ");
-        String[] array =dartResult.split(" ");
+        StringTokenizer stk = new StringTokenizer(dartResult, "*#SDT", true);
+        String[] strarr = new String[stk.countTokens()];
+        while(stk.hasMoreTokens()){
+            strarr[index] = stk.nextToken();
+            index++;
+        }
 
-        for(int i = 0; i < array.length; i++) {
-            char[] temp = array[i].toCharArray();
-            if (temp.length == 2) {
-                score = calculate(temp[0], temp[1]);
+        for(int i = 0; i < strarr.length; i++){
+            if(strarr[i].equals("S")||strarr[i].equals("D")||strarr[i].equals("T")){
+                score = calculate(list.get(list.size()-1), strarr[i]);
+                list.remove(list.size()-1);
                 list.add(score);
-                System.out.println("~"+score);
-            } else {
-                score = calculate(temp[0], temp[1]);
-                list.add(score);
-                score = option(temp[2], score, list.get(list.size()-2));
-                System.out.println("@"+score);
             }
-            answer += score;
+            else if(strarr[i].equals("*")||strarr[i].equals("#")){
+                option(strarr[i], list);
+            }
+            else{
+                list.add(Integer.parseInt(strarr[i]));
+            }
+        }
+        for(int a : list){
+            answer += a;
         }
         return answer;
     }
-  
-  public static int calculate(char A, char B){
+    
+    public static int calculate(int A, String B){
         double score = 0;
-        if(Character.compare(B, 'S') == 0){
-            score = Character.getNumericValue(A);
+        if(B.equals("S")){
+            score = A;
         }
-        else if(Character.compare(B, 'D') == 0){
-            score = Math.pow(Character.getNumericValue(A), 2);
+        else if(B.equals("D")){
+            score = Math.pow(A, 2);
         }
-        else if(Character.compare(B, 'T') == 0){
-            score = Math.pow(Character.getNumericValue(A), 3);
+        else if(B.equals("T")){
+            score = Math.pow(A, 3);
         }
         return (int)score;
     }
-  
-  public static int option(char C, int input, int front){
+    public static void option(String C, ArrayList<Integer> list){
         double score = 0;
-        if(Character.compare(C, '#') == 0){
-            score = input * (-1);
+        if(C.equals("#")){
+            score = list.get(list.size()-1) * (-1);
+            list.remove(list.size()-1);
+            list.add((int)score);
         }
-        else if(Character.compare(C, '*') == 0){
-            score = (front + input) * 2;
+        else if(C.equals("*")){
+            score = (list.get(list.size()-1) + list.get(list.size()-2)) * 2;
+            list.remove(list.size()-1);
+            list.remove(list.size()-1);
+            list.add((int)score);
         }
 
-        return (int)score;
+        return;
     }
 }
