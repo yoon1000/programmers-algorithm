@@ -2,14 +2,17 @@
 import java.util.*;
 
 class Solution {
-    public int solution(String dartResult) {
+    public static int solution(String dartResult) {
         int answer = 0;
         int score = 0;
         int index = 0;
         ArrayList<Integer> list = new ArrayList<>();
         list.add(0);
+        ArrayList<Integer> option = new ArrayList<>();
+        option.add(0);
         StringTokenizer stk = new StringTokenizer(dartResult, "*#SDT", true);
         String[] strarr = new String[stk.countTokens()];
+
         while(stk.hasMoreTokens()){
             strarr[index] = stk.nextToken();
             index++;
@@ -20,20 +23,35 @@ class Solution {
                 score = calculate(list.get(list.size()-1), strarr[i]);
                 list.remove(list.size()-1);
                 list.add(score);
+                option.add(score);
             }
             else if(strarr[i].equals("*")||strarr[i].equals("#")){
-                option(strarr[i], list);
+                score = option(strarr[i], option);
+
+                if(strarr[i].equals("*")){
+                    list.remove(list.size()-1);
+                    list.remove(list.size()-1);
+                    list.add(0);
+                    answer += score;
+                }
+                else {
+                    list.remove(list.size()-1);
+                    list.add(score);
+                    option.remove(list.size()-1);
+                    option.add(score);
+
+                }
             }
             else{
                 list.add(Integer.parseInt(strarr[i]));
             }
         }
-        for(int a : list){
-            answer += a;
+        for(int i: list){
+            answer = answer + i;
         }
+
         return answer;
     }
-    
     public static int calculate(int A, String B){
         double score = 0;
         if(B.equals("S")){
@@ -47,20 +65,14 @@ class Solution {
         }
         return (int)score;
     }
-    public static void option(String C, ArrayList<Integer> list){
-        double score = 0;
+    public static int option(String C,ArrayList<Integer> option){
+        int score = 0;
         if(C.equals("#")){
-            score = list.get(list.size()-1) * (-1);
-            list.remove(list.size()-1);
-            list.add((int)score);
+            score = option.get(option.size()-1) * (-1);
         }
         else if(C.equals("*")){
-            score = (list.get(list.size()-1) + list.get(list.size()-2)) * 2;
-            list.remove(list.size()-1);
-            list.remove(list.size()-1);
-            list.add((int)score);
+            score = (option.get(option.size()-1) + option.get(option.size()-2)) * 2;
         }
-
-        return;
+        return score;
     }
 }
