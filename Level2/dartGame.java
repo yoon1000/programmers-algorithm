@@ -1,4 +1,4 @@
-// level 2 - [1차] 다트 게임
+// level 1 - [1차] 다트 게임
 import java.util.*;
 
 class Solution {
