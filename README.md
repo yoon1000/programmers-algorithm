@@ -2,16 +2,18 @@
 
 ## [Notion]
 노션으로 알고리즘 피드백 정리!
+[Notion]:https://www.notion.so/fa52506a0d39477c850ebb286fad9fac
 
 ## Level 2 푼 문제 목록
 |이름|파일명|날짜|
 |:---|:---|:---:|
+|기능 기발|[functionDevelopment.java]|2021-7-10|
 |전화번호 목록|[phoneNumList.java]|2021-8-23|
 |위장|[camouflage.java]|2021-8-28|
 
-
-[phoneNumList.java]:https://github.com/yoon1000/programmers-algorithm/blob/main/hash/phoneNumList.java
-[camouflage.java]:https://github.com/yoon1000/programmers-algorithm/blob/main/hash/camouflage.java
+[functionDevelopment.java]: https://github.com/yoon1000/programmers-algorithm/blob/main/Level2/practice1.java
+[phoneNumList.java]:https://github.com/yoon1000/programmers-algorithm/blob/main/Level2/hash/phoneNumList.java
+[camouflage.java]:https://github.com/yoon1000/programmers-algorithm/blob/main/Level2/hash/camouflage.java
 
 ## Level 1 푼 문제 목록
 |이름|파일명|날짜|ver2|
@@ -51,7 +53,7 @@
 
 ## SQL 고득점 Kit
 * [SELECT (7문제)]
-* SUM,MAX,MIN (4문제)
+* [SUM,MAX,MIN (4문제)]
 * GROUP BY (4문제)
 따로 정리 예정
 
@@ -60,7 +62,7 @@
 [Knumber.java]:https://github.com/yoon1000/programmers-algorithm/blob/main/Level1/Knumber.java
 [dot-product.java]:https://github.com/yoon1000/programmers-algorithm/blob/main/Level1/dot-product.java
 [claw-crane-game.java]:https://github.com/yoon1000/programmers-algorithm/blob/main/Level1/claw-crane-game.java
-[marathon.java]:https://github.com/yoon1000/programmers-algorithm/blob/main/hash/marathon.java
+[marathon.java]:https://github.com/yoon1000/programmers-algorithm/blob/main/Level1/marathon.java
 [fonketmon.java]:https://github.com/yoon1000/programmers-algorithm/blob/main/Level1/HashMap/fonketmon.java
 [numberAndString.java]:https://github.com/yoon1000/programmers-algorithm/blob/main/Level1/numberAndString.java
 [trialExam.java]:https://github.com/yoon1000/programmers-algorithm/blob/main/Level1/HashMap/trialExam.java
@@ -76,14 +78,12 @@
 [middleWord.java]:https://github.com/yoon1000/programmers-algorithm/blob/main/Level1/middleWord.java
 [findDate.java]:https://github.com/yoon1000/programmers-algorithm/blob/main/Level1/findDate.java
 [secretMap.java]:https://github.com/yoon1000/programmers-algorithm/blob/main/Level1/secretMap.java
-[dartGame.java]:https://github.com/yoon1000/programmers-algorithm/blob/main/Level1/dartGame.java
+[dartGame.java]:https://github.com/yoon1000/programmers-algorithm/blob/main/Level1/StringTokenizer/dartGame.java
 
 
 [insufficient.java]:https://github.com/yoon1000/programmers-algorithm/blob/main/weekly-challenge/insufficient.java
 [grading.java]:https://github.com/yoon1000/programmers-algorithm/blob/main/weekly-challenge/grading.java
-[Notion]:https://www.notion.so/fa52506a0d39477c850ebb286fad9fac
-
 
 
 [SELECT (7문제)]:https://github.com/yoon1000/programmers-algorithm/tree/main/SQL/SELECT
-
+[SUM,MAX,MIN (4문제)]:https://github.com/yoon1000/programmers-algorithm/tree/main/SQL/SUM%2C%20MAX%2C%20MIN
