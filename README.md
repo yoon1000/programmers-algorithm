@@ -12,10 +12,13 @@
 |기능 기발|[functionDevelopment.java]|2021-7-10|
 |전화번호 목록|[phoneNumList.java]|2021-8-23|
 |위장|[camouflage.java]|2021-8-28|
+|(1차) 뉴스 클러스터링|[newsClustering.java]|2021-8-29|
 
 [functionDevelopment.java]: https://github.com/yoon1000/programmers-algorithm/blob/main/Level2/practice1.java
 [phoneNumList.java]:https://github.com/yoon1000/programmers-algorithm/blob/main/Level2/hash/phoneNumList.java
 [camouflage.java]:https://github.com/yoon1000/programmers-algorithm/blob/main/Level2/hash/camouflage.java
+[newsClustering.java]:https://github.com/yoon1000/programmers-algorithm/blob/main/Level2/newsClustering.java
+
 
 ## Level 1 푼 문제 목록
 |이름|파일명|날짜|ver2|
