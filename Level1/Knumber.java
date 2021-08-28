@@ -1,4 +1,7 @@
+// level 1 - K번째수
+
 import java.util.ArrayList;
+
 class Solution {
     public int[] solution(int[] array, int[][] commands) {
         int[] answer = {};

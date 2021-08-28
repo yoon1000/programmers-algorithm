@@ -1,3 +1,5 @@
+// level 1 - 크레인 인형 뽑기 게임
+
 import java.util.ArrayList;
 
 class Solution {
