@@ -6,6 +6,13 @@
 
 [Notion]:https://www.notion.so/fa52506a0d39477c850ebb286fad9fac
 
+## Level 3 푼 문제 목록
+|이름|파일명|날짜|
+|:---|:---|:---:|
+|베스트앨범|[bestAlbum.java]|2021-9-14|
+
+[bestAlbum.java]:https://github.com/yoon1000/programmers-algorithm/blob/main/Level3/Hash/bestAlbum.java
+
 ## Level 2 푼 문제 목록
 |이름|파일명|날짜|
 |:---|:---|:---:|
