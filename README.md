@@ -23,6 +23,7 @@
 |(1차) 캐시|[cacheSize.java]|2021-9-03|
 |프린터|[printer.java]|2021-9-14|
 |다리를 지나는 트럭|[crossingTruck.java]|2021-9-17|
+|주식가격|[stokePrice.java]|2021-9-17|
 
 [functionDevelopment.java]: https://github.com/yoon1000/programmers-algorithm/blob/main/Level2/practice1.java
 [phoneNumList.java]:https://github.com/yoon1000/programmers-algorithm/blob/main/Level2/hash/phoneNumList.java
@@ -31,6 +32,7 @@
 [cacheSize.java]:https://github.com/yoon1000/programmers-algorithm/blob/main/Level2/cacheSize.java
 [printer.java]:https://github.com/yoon1000/programmers-algorithm/blob/main/Level2/stack%26queue/printer.java
 [crossingTruck.java]:https://github.com/yoon1000/programmers-algorithm/blob/main/Level2/stack%26queue/crossingTruck.java
+[stokePrice.java]:https://github.com/yoon1000/programmers-algorithm/blob/main/Level2/stack%26queue/stokePrice.java
 
 
 ## Level 1 푼 문제 목록
