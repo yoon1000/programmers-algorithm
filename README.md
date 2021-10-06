@@ -1,10 +1,11 @@
-# programmers-algorithm
+# 프로그래머스 알고리즘 풀기
 
-## [Notion]
-노션으로 알고리즘 피드백 정리!
+* [**Notion**] : 알고리즘 피드백 정리
+* [**Algorithms and Data structure**] : 알고리즘/자료구조 공부 
 
 
-[Notion]:https://www.notion.so/fa52506a0d39477c850ebb286fad9fac
+[**Notion**]:https://www.notion.so/fa52506a0d39477c850ebb286fad9fac
+[**Algorithms and Data structure**]: https://www.notion.so/Algorithms-and-Data-structure-52ff4d8ee68240f18a26cbc51502ae27
 
 ## Level 3 푼 문제 목록
 |이름|파일명|날짜|
