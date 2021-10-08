@@ -26,7 +26,9 @@
 |다리를 지나는 트럭|[crossingTruck.java]|2021-9-17|
 |주식가격|[stokePrice.java]|2021-9-17|
 |더 맵게|[moreSpicy.java]|2021-9-28|
-|가장 큰 수|[mostLargeNum.java]|2021-10-6|
+|가장 큰 수|[mostLargeNum.java]|2021-10-06|
+|H-index|[H_index.java]|2021-10-08|
+
 
 [functionDevelopment.java]: https://github.com/yoon1000/programmers-algorithm/blob/main/Level2/stack&queue/functionDevelopment.java
 [phoneNumList.java]:https://github.com/yoon1000/programmers-algorithm/blob/main/Level2/hash/phoneNumList.java
@@ -38,6 +40,7 @@
 [stokePrice.java]:https://github.com/yoon1000/programmers-algorithm/blob/main/Level2/stack%26queue/stokePrice.java
 [moreSpicy.java]:https://github.com/yoon1000/programmers-algorithm/blob/main/Level2/heap/moreSpicy.java
 [mostLargeNum.java]:https://github.com/yoon1000/programmers-algorithm/blob/main/Level2/sort/mostLargeNum.java
+[H_index.java]:https://github.com/yoon1000/programmers-algorithm/blob/main/Level2/sort/H_index.java
 
 
 
