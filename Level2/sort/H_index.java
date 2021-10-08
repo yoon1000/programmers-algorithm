@@ -1,4 +1,4 @@
-// level 2 - 정렬 - H-index
+// level 2 - 정렬 - H_index
 
 import java.util.*;
 
