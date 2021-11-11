@@ -71,6 +71,10 @@
 |2016년|[findDate.java]|2021-8-19||
 |(1차) 비밀지도|[secretMap.java]|2021-8-20||
 |(1차) 다트 게임|[dartGame.java]|2021-8-27||
+|없는 숫자 더하기|[addExceptNum.java]|2021-11-10||
+|소수 만들기|[makePrimeNum.java]|2021-11-10||
+|나머지가 1이 되는 수 찾기|[restOne.java]|2021-11-10||
+|최소 직사각형|[smallestRec.java]|2021-11-10||
 
 ## Weekly Challenge
 |이름|파일명|날짜|
@@ -112,6 +116,11 @@
 [findDate.java]:https://github.com/yoon1000/programmers-algorithm/blob/main/Level1/findDate.java
 [secretMap.java]:https://github.com/yoon1000/programmers-algorithm/blob/main/Level1/secretMap.java
 [dartGame.java]:https://github.com/yoon1000/programmers-algorithm/blob/main/Level1/StringTokenizer/dartGame.java
+[addExceptNum.java]:https://github.com/yoon1000/programmers-algorithm/blob/main/Level1/addExceptNum.java
+[makePrimeNum.java]:https://github.com/yoon1000/programmers-algorithm/blob/main/Level1/makePrimeNum.java
+[restOne.java]:https://github.com/yoon1000/programmers-algorithm/blob/main/Level1/restOne.java
+[smallestRec.java]:https://github.com/yoon1000/programmers-algorithm/blob/main/Level1/smallestRec.java
+
 
 
 [insufficient.java]:https://github.com/yoon1000/programmers-algorithm/blob/main/weekly-challenge/insufficient.java
