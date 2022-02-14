@@ -33,7 +33,7 @@
 |H-index|[H_index.java]|2021-10-08|
 |소수 찾기|[findPrimeNum.java]|2021-10-12|
 |카펫|[carpet.java]|2021-10-12|
-
+|구명보트|[LifeBoat.java]|2022-2-14|
 
 [functionDevelopment.java]: https://github.com/yoon1000/programmers-algorithm/blob/main/Level2/stack&queue/functionDevelopment.java
 [phoneNumList.java]:https://github.com/yoon1000/programmers-algorithm/blob/main/Level2/hash/phoneNumList.java
@@ -48,6 +48,8 @@
 [H_index.java]:https://github.com/yoon1000/programmers-algorithm/blob/main/Level2/sort/H_index.java
 [findPrimeNum.java]:https://github.com/yoon1000/programmers-algorithm/blob/main/Level2/exhaustive_search/findPrimeNum.java
 [carpet.java]:https://github.com/yoon1000/programmers-algorithm/blob/main/Level2/exhaustive_search/carpet.java
+[LifeBoat.java]:https://github.com/yoon1000/programmers-algorithm/blob/main/Level2/Greedy/LifeBoat.java
+
 
 
 
