@@ -82,6 +82,10 @@
 |소수 만들기|[makePrimeNum.java]|2021-11-10||
 |나머지가 1이 되는 수 찾기|[restOne.java]|2021-11-10||
 |최소 직사각형|[smallestRec.java]|2021-11-10||
+|신고 결과 받기|[Report.java]|2022-3-21||
+
+
+[Report.java]:https://github.com/yoon1000/programmers-algorithm/blob/main/Level1/Report.java
 
 ## Weekly Challenge
 |이름|파일명|날짜|
