@@ -36,6 +36,7 @@
 |구명보트|[LifeBoat.java]|2022-2-14|
 |타겟 넘버|[TargetNum.java]|2022-2-17|
 |오픈채팅방|[OpenChat.java]|2022-3-22|
+|멀쩡한 사각형|[PerfectSquare.java]|2022-3-23|
 
 [functionDevelopment.java]: https://github.com/yoon1000/programmers-algorithm/blob/main/Level2/stack&queue/functionDevelopment.java
 [phoneNumList.java]:https://github.com/yoon1000/programmers-algorithm/blob/main/Level2/hash/phoneNumList.java
@@ -53,6 +54,8 @@
 [LifeBoat.java]:https://github.com/yoon1000/programmers-algorithm/blob/main/Level2/Greedy/LifeBoat.java
 [TargetNum.java]:https://github.com/yoon1000/programmers-algorithm/blob/main/Level2/DFS_BFS/TargetNum.java
 [OpenChat.java]:https://github.com/yoon1000/programmers-algorithm/blob/main/Level2/OpenChat.java
+[PerfectSquare.java]:https://github.com/yoon1000/programmers-algorithm/blob/main/Level2/PerfectSquare.java
+
 
 
 
