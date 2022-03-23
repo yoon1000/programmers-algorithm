@@ -7,14 +7,7 @@
 [**Notion**]:https://www.notion.so/fa52506a0d39477c850ebb286fad9fac
 [**Algorithms and Data structure**]: https://www.notion.so/Algorithms-and-Data-structure-52ff4d8ee68240f18a26cbc51502ae27
 
-## Level 3 푼 문제 목록
-|이름|파일명|날짜|
-|:---|:---|:---:|
-|베스트앨범|[bestAlbum.java]|2021-9-14|
-|이중우선순위큐|[DualPriority.java]|2022-2-10|
-
-[bestAlbum.java]:https://github.com/yoon1000/programmers-algorithm/blob/main/Level3/Hash/bestAlbum.java
-[DualPriority.java]:https://github.com/yoon1000/programmers-algorithm/blob/main/Level3/Heap/DualPriority.java
++ ## Level 3 푼 문제 목록
 
 
 ## Level 2 푼 문제 목록
