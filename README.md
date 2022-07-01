@@ -46,10 +46,11 @@
 |최소 직사각형|[smallestRec.java]|2021-11-10||
 |신고 결과 받기|[Report.java]|2022-3-21||
 |문자열 내 마음대로 정렬하기|[SortingString.java]|2022-7-1||
-
+|문자열 내 p와 y의 갯수|[NumberOfPnY.java]|2022-7-1||
 
 [Report.java]:https://github.com/yoon1000/programmers-algorithm/blob/main/Level1/Report.java
 [SortingString.java]:https://github.com/yoon1000/programmers-algorithm/blob/main/Level1/SortingString.java
+[NumberOfPnY.java]:https://github.com/yoon1000/programmers-algorithm/blob/main/Level1/NumberOfPnY.java
 
 ## Weekly Challenge
 |이름|파일명|날짜|
