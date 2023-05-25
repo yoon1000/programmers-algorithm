@@ -8,6 +8,10 @@
 [**Notion**]:https://www.notion.so/fa52506a0d39477c850ebb286fad9fac
 [**Algorithms and Data structure**]: https://www.notion.so/Algorithms-and-Data-structure-52ff4d8ee68240f18a26cbc51502ae27
 
+
++ ## [프로그래머스 코딩 테스트 문제 풀이 전략 : 자바 편]
+[프로그래머스 코딩 테스트 문제 풀이 전략 : 자바 편]:https://github.com/yoon1000/programmers-algorithm/blob/main/README/book-pracitce.md
+
 + ## [Level 3 푼 문제 목록]
 [Level 3 푼 문제 목록]:https://github.com/yoon1000/programmers-algorithm/blob/main/README/LEVEL3.md
 
