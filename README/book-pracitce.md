@@ -29,8 +29,8 @@
 ### Chapter 4 문자열
 |이름|파일명|날짜|
 |:---|:---|:---:|
-|[자연수 뒤집어 배열로 만들기]|[FindIntersection.java]|2023.05.31|
-|[시저 암호]|[Int2StringArray.java]|2023.05.31|
+|[자연수 뒤집어 배열로 만들기]|[Int2StringArray.java]|2023.05.31|
+|[시저 암호]|[CaesarCipher.java]|2023.05.31|
 
 
 [자연수 뒤집어 배열로 만들기]:https://school.programmers.co.kr/tryouts/71851/challenges
